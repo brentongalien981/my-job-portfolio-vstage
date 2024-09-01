@@ -1,0 +1,12 @@
+#the-navbar a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+#regular-nav-item {
+  color: black;
+}
+
+#selected-nav-item {
+  text-decoration: underline;
+}

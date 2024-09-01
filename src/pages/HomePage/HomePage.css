@@ -1,0 +1,17 @@
+h2 {
+  font-weight: 400;
+}
+
+h4 {
+  font-weight: 400;
+}
+
+#the-image {
+  width: 50%;
+  box-shadow: 0 0 10px rgb(150, 150, 150);
+}
+
+label, p, a {
+  font-size: 0.95rem;
+  font-weight: 400;
+}
